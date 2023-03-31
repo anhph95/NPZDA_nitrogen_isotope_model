@@ -5,6 +5,7 @@ authors:
   given-names: "Anh"
   orcid: "https://orcid.org/0000-0001-7827-6558"
 title: "An ecosystem model for nitrogen stable isotope simulation."
-version: 1.0.0
+version: 1.0
+doi: 10.5281/zenodo.7789956
 date-released: 2023-03-31
 url: "https://github.com/anhph95/NPZDA_nitrogen_isotope_model"
